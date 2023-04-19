@@ -5,4 +5,9 @@
 
 h1, h2 {
     font-family: MyFont;
+    color: antiquewhite;
+}
+
+body {
+    background-color: rgb(23, 24, 56);
 }
