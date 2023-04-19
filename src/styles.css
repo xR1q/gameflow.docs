@@ -3,6 +3,6 @@
     src: url('../fonts/mainFont.otf');
 }
 
-h1 {
+h1, p {
     font-family: MyFont;
 }
