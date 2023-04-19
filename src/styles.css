@@ -1,3 +1,4 @@
-h1 {
-    font-family: Arial, sans-serif;
+@font-face {
+    font-family: MyFont;
+    src: url('../fonts/data-latin.ttf');
 }
