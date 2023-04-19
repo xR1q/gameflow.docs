@@ -2,3 +2,7 @@
     font-family: MyFont;
     src: url('../fonts/data-latin.ttf');
 }
+
+h1 {
+    font-family: MyFont;
+}
